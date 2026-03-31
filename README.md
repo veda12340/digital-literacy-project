@@ -26,7 +26,7 @@ Contains the final, consolidated Project Report summarizing my findings and refl
 
 Digital Literacy Awareness Quiz:
 
-My LinkedIn Profile: 
+My LinkedIn Profile: https://www.linkedin.com/in/vedavyas-vydyam-a86b6b378/
 
 Tools and Platforms Used:
 
